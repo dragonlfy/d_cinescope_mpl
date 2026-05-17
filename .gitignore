@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+checkpoints/
+examples/toy_data/
+.DS_Store
