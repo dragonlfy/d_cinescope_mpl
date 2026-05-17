@@ -1,4 +1,4 @@
-# CineScope-MPL (Simplified)
+# CineScope-MPL
 
 A **minimal PyTorch implementation** of the core ideas in **CineScope-MPL: Multimodal Prompt Learning on Vision–Language Foundation Models for Automatic Storyboard Assessment and Formative Feedback in Film Education**.
 
